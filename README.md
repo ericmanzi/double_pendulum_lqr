@@ -2,7 +2,7 @@
 
 To use the LQR controller to balance the double pendulum controller:
 - Run `addpath_drake` in the drake/ directory.
-- Then `cd /examples/SimpleDoublePendulum/` and
+- Then `cd drake/examples/SimpleDoublePendulum/` and
 - run `runSimpleCartDoublePendInv`
 
 ====
