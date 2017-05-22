@@ -7,5 +7,5 @@ To use the LQR controller to balance the double pendulum controller:
 
 ====
 
-Please see the github wiki at http://drake.mit.edu for detailed documentation.
+Please see the github wiki at http://drake.mit.edu for detailed documentation on using the drake library.
 
